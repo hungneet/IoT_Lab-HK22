@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android IoT</string>
+    <string name="temp">Temperature</string>
+    <string name="humi">Humidity</string>
+    <string name="light">Light</string>
+    <string name="pump">Pump</string>
+    <string name="fan">Fan</string>
+</resources>

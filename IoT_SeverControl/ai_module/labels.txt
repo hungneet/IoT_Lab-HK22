@@ -1,0 +1,3 @@
+0 No mask
+1 Mask On
+2 Background
